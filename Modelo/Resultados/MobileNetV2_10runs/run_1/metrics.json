@@ -1,0 +1,57 @@
+{
+    "container_battery": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 45.0
+    },
+    "container_biodegradable": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 17.0
+    },
+    "container_blue": {
+        "precision": 1.0,
+        "recall": 0.9897959183673469,
+        "f1-score": 0.9948717948717949,
+        "support": 98.0
+    },
+    "container_default": {
+        "precision": 0.9895833333333334,
+        "recall": 1.0,
+        "f1-score": 0.9947643979057592,
+        "support": 95.0
+    },
+    "container_green": {
+        "precision": 0.9787234042553191,
+        "recall": 0.9787234042553191,
+        "f1-score": 0.9787234042553191,
+        "support": 94.0
+    },
+    "container_oil": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 34.0
+    },
+    "container_yellow": {
+        "precision": 0.9782608695652174,
+        "recall": 0.9782608695652174,
+        "f1-score": 0.9782608695652174,
+        "support": 92.0
+    },
+    "accuracy": 0.9894736842105263,
+    "macro avg": {
+        "precision": 0.9923668010219815,
+        "recall": 0.9923971703125548,
+        "f1-score": 0.9923743523711559,
+        "support": 475.0
+    },
+    "weighted avg": {
+        "precision": 0.9894956140350878,
+        "recall": 0.9894736842105263,
+        "f1-score": 0.9894737972599643,
+        "support": 475.0
+    }
+}

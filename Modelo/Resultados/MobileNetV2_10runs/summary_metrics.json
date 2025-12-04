@@ -1,0 +1,65 @@
+{
+    "accuracy_mean": 0.984842105263158,
+    "accuracy_std": 0.0050526315789473485,
+    "loss_mean": 0.05456192530691624,
+    "loss_std": 0.010986158762481898,
+    "classes": {
+        "container_battery": {
+            "f1_mean": 0.9967024914509037,
+            "f1_std": 0.0070007203327325926,
+            "precision_mean": 0.9957446808510639,
+            "precision_std": 0.012765957446808496,
+            "recall_mean": 0.9977777777777778,
+            "recall_std": 0.006666666666666676
+        },
+        "container_biodegradable": {
+            "f1_mean": 1.0,
+            "f1_std": 0.0,
+            "precision_mean": 1.0,
+            "precision_std": 0.0,
+            "recall_mean": 1.0,
+            "recall_std": 0.0
+        },
+        "container_blue": {
+            "f1_mean": 0.9891614919790402,
+            "f1_std": 0.0059033783057649124,
+            "precision_mean": 0.9979486640016832,
+            "precision_std": 0.004102739429873021,
+            "recall_mean": 0.9806122448979592,
+            "recall_std": 0.011589608868980162
+        },
+        "container_default": {
+            "f1_mean": 0.9952879581151833,
+            "f1_std": 0.0015706806282722364,
+            "precision_mean": 0.9906250000000002,
+            "precision_std": 0.0031249999999999893,
+            "recall_mean": 1.0,
+            "recall_std": 0.0
+        },
+        "container_green": {
+            "f1_mean": 0.9705772998248333,
+            "f1_std": 0.01081244899629092,
+            "precision_mean": 0.9617685150532227,
+            "precision_std": 0.019244214427540804,
+            "recall_mean": 0.9797872340425531,
+            "recall_std": 0.008836833896721361
+        },
+        "container_oil": {
+            "f1_mean": 0.9971014492753623,
+            "f1_std": 0.005797101449275343,
+            "precision_mean": 0.9942857142857143,
+            "precision_std": 0.011428571428571432,
+            "recall_mean": 1.0,
+            "recall_std": 0.0
+        },
+        "container_yellow": {
+            "f1_mean": 0.9709381019097542,
+            "f1_std": 0.010307156496775454,
+            "precision_mean": 0.9780746222020611,
+            "precision_std": 0.010763572502866529,
+            "recall_mean": 0.9641304347826087,
+            "recall_std": 0.017560320023264693
+        }
+    },
+    "best_model": "Resultados/MobileNetV2_10runs\\run_3\\mobilenetv2_best.weights.h5"
+}

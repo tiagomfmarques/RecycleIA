@@ -1,0 +1,7 @@
+Pilha
+Orgânico
+Papel
+Indeferenciado
+Vidro
+Óleo
+Plástico

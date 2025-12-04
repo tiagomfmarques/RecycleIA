@@ -1,0 +1,65 @@
+{
+    "accuracy_mean": 0.9898947368421052,
+    "accuracy_std": 0.002629472841430917,
+    "loss_mean": 0.04005697499960661,
+    "loss_std": 0.006312621228940428,
+    "classes": {
+        "container_battery": {
+            "f1_mean": 1.0,
+            "f1_std": 0.0,
+            "precision_mean": 1.0,
+            "precision_std": 0.0,
+            "recall_mean": 1.0,
+            "recall_std": 0.0
+        },
+        "container_biodegradable": {
+            "f1_mean": 1.0,
+            "f1_std": 0.0,
+            "precision_mean": 1.0,
+            "precision_std": 0.0,
+            "recall_mean": 1.0,
+            "recall_std": 0.0
+        },
+        "container_blue": {
+            "f1_mean": 0.9959079016221875,
+            "f1_std": 0.0038208353005922987,
+            "precision_mean": 0.9979591836734695,
+            "precision_std": 0.004081632653061229,
+            "recall_mean": 0.9938775510204083,
+            "recall_std": 0.004998958658741185
+        },
+        "container_default": {
+            "f1_mean": 0.9994708994708994,
+            "f1_std": 0.001587301587301604,
+            "precision_mean": 1.0,
+            "precision_std": 0.0,
+            "recall_mean": 0.9989473684210527,
+            "recall_std": 0.003157894736842115
+        },
+        "container_green": {
+            "f1_mean": 0.9775793798552085,
+            "f1_std": 0.0051672062110493105,
+            "precision_mean": 0.9818567273275546,
+            "precision_std": 0.00950654747554797,
+            "recall_mean": 0.973404255319149,
+            "recall_std": 0.005319148936170193
+        },
+        "container_oil": {
+            "f1_mean": 1.0,
+            "f1_std": 0.0,
+            "precision_mean": 1.0,
+            "precision_std": 0.0,
+            "recall_mean": 1.0,
+            "recall_std": 0.0
+        },
+        "container_yellow": {
+            "f1_mean": 0.9757210787919668,
+            "f1_std": 0.006009538269538737,
+            "precision_mean": 0.9690284847552022,
+            "precision_std": 0.009717117755275563,
+            "recall_mean": 0.9826086956521738,
+            "recall_std": 0.008695652173913035
+        }
+    },
+    "best_model": "Resultados/DenseNet121_10runs\\run_3\\densenet121_best.weights.h5"
+}

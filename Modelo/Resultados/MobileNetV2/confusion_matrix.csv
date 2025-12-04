@@ -1,0 +1,8 @@
+,container_battery,container_biodegradable,container_blue,container_default,container_green,container_oil,container_yellow
+container_battery,45,0,0,0,0,0,0
+container_biodegradable,0,18,0,0,0,0,0
+container_blue,0,0,98,0,0,0,0
+container_default,0,0,0,95,0,0,0
+container_green,0,0,0,0,94,0,0
+container_oil,0,0,0,0,1,33,0
+container_yellow,0,0,0,0,2,0,90
