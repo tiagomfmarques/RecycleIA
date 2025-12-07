@@ -1,4 +1,4 @@
-# **_RecycleAI: Classificação Automática de Contentores de Lixo_**
+# **_RecycleIA: Classificação Automática de Contentores de Lixo_**
 
 ## Descrição do Projeto
 
