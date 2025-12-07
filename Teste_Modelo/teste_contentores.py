@@ -10,7 +10,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 MODEL_CHOICE = "densenet"  # 'densenet', 'resnet', 'mobilenet'
-IMG_PATH = "Imagens_Teste/papel.png"
+IMG_PATH = "Imagens_Teste/papel.jpg"
 IMG_HEIGHT, IMG_WIDTH = 224, 224
 NUM_CLASSES = 7
 CLASS_LABELS_PATH = "classes.txt"

@@ -115,7 +115,7 @@ model.compile(
 )
 
 
-checkpoint_path = os.path.join(RESULTS_DIR, "mobilenetv2.weights.h5")
+checkpoint_path = os.path.join(RESULTS_DIR, "modelo_contentor.weights.h5")
 checkpoint = ModelCheckpoint(
     checkpoint_path,
     monitor='val_accuracy',

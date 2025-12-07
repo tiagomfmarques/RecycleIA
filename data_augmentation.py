@@ -26,8 +26,8 @@ datagen_geom = ImageDataGenerator(
 
 def pixel_augment(img):
     # Brilho e contraste
-    alpha = np.random.uniform(0.9, 1.1)  # contraste suave
-    beta = np.random.randint(-10, 10)    # brilho suave
+    alpha = np.random.uniform(0.9, 1.1)
+    beta = np.random.randint(-10, 10)
     img = cv2.convertScaleAbs(img, alpha=alpha, beta=beta)
 
     # Blur
